@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fight the Lord Goring beaten at Coulchester in Essex. The suburbs taken by the Lord Generall, part of it fired. Sir Thomas Honyvvood taken prisoner, and 20 killed. Killed of the enemy 100. and taken 500 prisoners. With the particulars of the said fight. Also a declaration from the gentlemen of South-Wales. And the proceedings of Lieutenant Generall Crumwell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85291</idno>
+            <idno type="STC">Wing F903</idno>
+            <idno type="STC">Thomason E447_22</idno>
+            <idno type="EEBO-CITATION">99864394</idno>
+            <idno type="PROQUEST">99864394</idno>
+            <idno type="VID">161812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161812)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E447[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fight the Lord Goring beaten at Coulchester in Essex. The suburbs taken by the Lord Generall, part of it fired. Sir Thomas Honyvvood taken prisoner, and 20 killed. Killed of the enemy 100. and taken 500 prisoners. With the particulars of the said fight. Also a declaration from the gentlemen of South-Wales. And the proceedings of Lieutenant Generall Crumwell.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Smithurst, and are to be sold neer Hosier-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norwich, George Goring, --  Earl of, 1583?-1663 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161812:1" rendition="simple:additions"/>
+            <p>A FIGHT THE Lord GORING beaten at <hi>COUL<g ref="char:EOLhyphen"/>CHESTER</hi> in <hi>ESSEX.</hi>
+            </p>
+            <p>The Suburbs taken by the Lord Gene<g ref="char:EOLhyphen"/>rall, part of it Fired.</p>
+            <p>Sir THOMAS HONYVVOOD taken Priſoner, and 20 killed.</p>
+            <p>Killed of the Enemy 100. and taken 500 Priſoners.</p>
+            <p>
+               <hi>With the particulars of the ſaid FIGHT.</hi>
+            </p>
+            <p>ALSO A Declaration from the Gentlemen of <hi>SOVTH-WALES.</hi>
+            </p>
+            <p>And the Proceedings of Lieutenant Generall <hi>Crumwell.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed for <hi>Richard Smithurſt,</hi> and are to be ſold neer <hi>Hoſier-Lane,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161812:2"/>
+            <pb n="1" facs="tcp:161812:2"/>
+            <head>A Letter from the ARMIE NEERE COULCHESTER in ESSEX, WHERE The Lord Generall entred the Suburbs.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>THe Lord Generall marched out this day to view <hi>Coulcheſter,</hi> with ſome Inhabi<g ref="char:EOLhyphen"/>tants that could deſcry the Towne, for the better ordering of the advance of the Army thither.</p>
+            <p>His Excellency had with him onely two Regiaments of horſe, and one Regiament of foot, with whom he marched for this De<g ref="char:EOLhyphen"/>ſigne.</p>
+            <pb n="2" facs="tcp:161812:3"/>
+            <p>The Lord <hi>Goring,</hi> Sir <hi>Charles Lucas,</hi> and their body of Horſe and Foot, being quartered in and a<g ref="char:EOLhyphen"/>bout the Town.</p>
+            <p>But the Cavaliers were ſecure, not dreaming of ſo ſuddain an approach of his Excellency, and the ra<g ref="char:EOLhyphen"/>ther becauſe our Artillery (they knew) could not bee yet come.</p>
+            <p>Upon his Excellencies approach, the Enemy in <hi>Coulcheſter</hi> took an Alarm, and all (ſo farre as they had ſupplies) riſe in Armes, and ſome got upon the Walls, others upon the Steeple, and other places to view our Forces.</p>
+            <p>But the reſolute party of Cavaliers, made a ſally out of the Town, and faced our Regiaments.</p>
+            <p>Our Forces (hereupon) put themſelves into a po<g ref="char:EOLhyphen"/>ſture to receive them, which they did with much gal<g ref="char:EOLhyphen"/>lantry,</p>
+            <p>There was a hot diſpute but ſhort, ſome killed and taken on both ſides.</p>
+            <p>But (at laſt) the Enemy was put to a retreat, into the Town, the Lord Generall purſuing them to the very Suburbs, doing execution.</p>
+            <p>His Excellency hath already entred the Suburbs, where ſome Houſes neer the gate, are at this inſtant on fire.</p>
+            <p>Sir <hi>Thomm Honywood</hi> is with the <hi>Eſſex</hi> Forces, and a party from the Army, gone towards <hi>Suffolk</hi> bor<g ref="char:EOLhyphen"/>ders, to prevent the Cavaliers from flying that way, and care is taken to prevent their marching North<g ref="char:EOLhyphen"/>ward.</p>
+            <p>The Diſpute doth ſtill continue, for the Town. which is probable will ere long be ours, as ſecure
+<pb n="3" facs="tcp:161812:3"/>as <hi>Maydſtone, Rocheſter,</hi> or <hi>Canterbury</hi> in <hi>Kent.</hi>
+            </p>
+            <p>But his Excellency had no intent at this time to engage, only to have viewed the Town, and ground. And to have marched up when the Artillery, and body of the Army were come up, then to have falne to the buſineſſe.</p>
+            <p>Sir <hi>Alexander Ratcliffe</hi> is taken priſoner at <hi>Rum<g ref="char:EOLhyphen"/>ford,</hi> with ſome others, by ſome of the Country.</p>
+            <p>There are few that continue in Armes againſt us here, ſave ſuch as were formerly in Armes againſt the Parliament. And ſome others of deſperate fortunes, and diſcontented perſons.</p>
+            <p>There are divers Inhabitants of this County, that ſpoke formerly well of them, that now none are more againſt them. The reaſon is, as they ſaid, becauſe they had aſſurance upon the faith and honour of di<g ref="char:EOLhyphen"/>vers of them, that they ſhould be protected from all harme or dammage. And yet they are plundered by them as well as any others.</p>
+            <p>The civill Women and Mayds, where theſe men come are afraid to goe out of their Houſes, by reaſon of ſome incivillitie offered to ſome of their Neigh<g ref="char:EOLhyphen"/>bours.</p>
+            <p>This County hath been already damnifi<g ref="char:EOLhyphen"/>ed by the riſing of the Cavaliers (as is gueſt) at laſt 10000 li. already. Beſides the ſuffe<g ref="char:EOLhyphen"/>rings of the Inhabitants for lack of Trade, The poore being ready to ſtarve for want of imployment.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated in the Field, neer</hi> Coulcheſter, <date>
+                     <hi>this</hi> 13 <hi>of June,</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="4" facs="tcp:161812:4"/>
+            <head>A <hi>Declaration by the well-affected Gentlemen of SOVTHWALES.</hi>
+            </head>
+            <p>WHereas it was in the laſt weeks <hi>Diur<g ref="char:EOLhyphen"/>nall,</hi> Viz. <hi>That</hi> Poyer <hi>holds to his firſt reſolution of ſuch and ſuch things as he demanded, not at all having aſsiſted the party that was com<g ref="char:EOLhyphen"/>manded by Major Generall</hi> Laughorn, <hi>nor per<g ref="char:EOLhyphen"/>mitting any of thoſe that fled from the Battaile, to come in to him.</hi>
+            </p>
+            <p>Which particulars are very untrue, and purpoſely given in by ſome of <hi>Poyers</hi> agents here, to extenuate the fouleneſſe of his Rebel<g ref="char:EOLhyphen"/>lion, and that he may be received in upon ad<g ref="char:EOLhyphen"/>vantagious conditions: But the truth is, and it is moſt certainly known, that <hi>Poyer</hi> ſent up from <hi>Pembrookſhire</hi> to <hi>Powel,</hi> then muſtering of the County of <hi>Carmarthen,</hi> and before the Rout in <hi>Clamorganſhire</hi> 400 Foot and Horſe, and ſince their defeat in <hi>Glamorganſhire, Poyer</hi> hath received <hi>Laughorn,</hi> with the remainder of the fugitives from <hi>Glamorganſhire</hi> into the Town of <hi>Pembrook,</hi> and <hi>Poyer</hi> hath ſince de<g ref="char:EOLhyphen"/>clared to live and die with them, and ſpared
+<pb n="5" facs="tcp:161812:4"/>them the proviſions he had plundered from the well-affected of that County, and doth joyn with <hi>Laughorn,</hi> in oppoſing the Lieute<g ref="char:EOLhyphen"/>nant Generalls Forces, now beſieging the Town and Caſtle of <hi>Pembrook.</hi> And to am<g ref="char:EOLhyphen"/>muſe the people of the Counties of <hi>Pembrook, Carmarthen,</hi> and <hi>Glamorgan,</hi> as inſtruments to raiſe an Army for <hi>Laughorn,</hi> againſt his going down from hence, they made ſeverall Decla<g ref="char:EOLhyphen"/>rations to the ſaid Counties.</p>
+            <p>In the County of <hi>Pembrook</hi> they declared for <hi>King, Parliament, Covenant,</hi> and againſt the Lord Generals Army.</p>
+            <p>In the County of <hi>Carmarthen,</hi> for <hi>King, Par<g ref="char:EOLhyphen"/>liament,</hi> and againſt the Army.</p>
+            <p>In the County of <hi>Glamorgan,</hi> for the <hi>King,</hi> &amp; againſt the Army. This their juggling with God and man, thrived accordingly.</p>
+            <p>Its hoped that <hi>Poyer</hi> having firſt appeared in Rebellion of any in the Kingdom, and ha<g ref="char:EOLhyphen"/>ving rejected thoſe ſeverall faire offers made him by the Lord Generall, touching pay<g ref="char:EOLhyphen"/>ment of his Arrears, and Indempnity upon his ſurrendring the ſaid Caſtle, and having plundered and ruined the well-affected Gen<g ref="char:EOLhyphen"/>try
+<pb n="6" facs="tcp:161812:5"/>of that County, who were forced by him to leave their Country, and to repair to Coll. <hi>Horton</hi> for ſafety, ſhall not receive conditions of Indempnity, or more mercy then a Coun<g ref="char:EOLhyphen"/>cell of warre in Juſtice ſhall doe him.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>June</hi> 10. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>WE had laſt night a very hot diſpute at our en<g ref="char:EOLhyphen"/>tring of theſe ſuburbs, the Enemy ſallyed out of this Towne of <hi>Coulcheſter</hi> upon three Regiaments that came to view the place: wee fought them, and, through Gods mercy to us, are entred the Suburbs. They have two Drakes within, and have made many ſhot at us. There are all the grand Cavaliers within: the Lord <hi>Goring,</hi> the Lord <hi>Culpepper,</hi> Sir <hi>Charles Lu<g ref="char:EOLhyphen"/>cas,</hi> and their Cavalry, &amp; wee hope can hardly eſcape us. In the fight laſt night we loſt ſome 20 men, and have many wounded. We killed 100 of them, and wounded abundance as we heare. And we have taken 500 Priſoners, 400 of whom they kept out. And hope to give (God ſtrengthening us) a ſpeedy account of reducing all the reſt, to which the Country comes in freely (by reaſon of the Cavalliers ill uſage to<g ref="char:EOLhyphen"/>wards them) to give us aſſiſtance.</p>
+            <closer>
+               <dateline>
+                  <hi>Coulcheſter Suburbs</hi> 
+                  <date>
+                     <hi>this </hi>14 <hi>of June</hi> 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
